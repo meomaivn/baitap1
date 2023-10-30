@@ -106,4 +106,10 @@
     box-shadow: -14px 12px 5px -4px rgba(231, 229, 229, 0.79);
     -webkit-box-shadow: -14px 12px 5px -4px rgba(231, 229, 229, 0.79);
     -moz-box-shadow: -14px 12px 5px -4px rgba(231, 229, 229, 0.79);
+    transform: translateY(-15px);
+}
+
+.new .card {
+    transform: translateY(0);
+    transition: all 0.5s;
 }
