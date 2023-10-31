@@ -112,4 +112,29 @@
 .new .card {
     transform: translateY(0);
     transition: all 0.5s;
+
+}
+
+.apple {
+    background: url('https://ohparent.com/wp-content/uploads/2021/08/AdobeStock_234457940-scaled.jpeg') no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    /* background: linear-gradient(rgba(0, 0, 0.2), rgb(122, 23, 23)); */
+    object-fit: fill;
+}
+
+.apple h1 {
+    font-weight: bold;
+    font-family: 'Lobster Two', 'Rubik', sans-serif;
+    font-size: 50px;
+    line-height: 1.2;
+
+}
+
+.apple .text-h6 {
+    font-size: 17px;
+    font-weight: lighter;
+    line-height: 1.3;
+
 }
